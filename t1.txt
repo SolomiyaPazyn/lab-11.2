@@ -1,0 +1,5 @@
+Hi (this is a comment), this is test text (with nested (double) brackets).
+Normal text without brackets.
+The function (removing brackets) works (well).
+
+

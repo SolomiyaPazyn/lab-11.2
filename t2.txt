@@ -1,0 +1,5 @@
+Hi , this is test text .
+Normal text without brackets.
+The function  works .
+
+
